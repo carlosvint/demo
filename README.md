@@ -10,15 +10,15 @@ Crear un juego donde el jugador puede explorar, recolectar objetos, tomar decisi
 
 ## 📁 Estructura del Proyecto
 
+```
 /src
 └── /main
-└── /java
-└── /work
-├── Main.java # Punto de entrada del programa
-├── Game.java # Lógica principal del juego
-└── Player.java # Clase que representa al jugador
-
-
+    └── /java
+        └── /work
+            ├── Main.java     # Punto de entrada del programa
+            ├── Game.java     # Lógica principal del juego
+            └── Player.java   # Clase que representa al jugador
+```
 ---
 
 ## 🧪 Módulo Actual: Fundamentos de Java
